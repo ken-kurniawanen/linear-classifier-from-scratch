@@ -1,0 +1,23 @@
+==================LINEAR CLASSIFIER IRIS==================
+Input learning rate: 0.1
+=========Training Result with learning rate  0.1  =========
+Epoch needed to get low MSE : 35
+Time needed to get low MSE : 0.01799488067626953125
+Total Running time to train 60 epoch : 0.03031659126281738281
+theta 1 =  -0.47784562773880296
+theta 2 =  -1.5932524126976224
+theta 3 =  2.537861669985672
+theta 4 =  1.224193817758397
+bias =  -0.2620533692603409
+
+==================LINEAR CLASSIFIER IRIS==================
+Input learning rate: 0.8
+=========Training Result with learning rate  0.8  =========
+Epoch needed to get low MSE : 8
+Time needed to get low MSE : 0.00829529762268066406
+Total Running time to train 60 epoch : 0.02641010284423828125
+theta 1 =  -0.6217821210177781
+theta 2 =  -2.15254989375278
+theta 3 =  3.4329177212111133
+theta 4 =  1.6166208452087683
+bias =  -0.36448735136944516
